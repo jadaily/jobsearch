@@ -1,0 +1,303 @@
+COLD EMAIL TEMPLATES — Jaden Daily
+jaden.daily11@gmail.com | linkedin.com/in/jadenadaily | github.com/jadaily
+NYU Computer Engineering, graduating May 2026
+────────────────────────────────────────────────────────────────────────
+
+NOTES ON SENDING:
+- Send from jaden.daily11@gmail.com — not a school address
+- Tuesday or Wednesday morning (8–10am recipient's timezone) gets the best open rate
+- Always attach your resume as a single-page PDF
+- If no reply after 10 days, send one follow-up ("just bumping this up")
+- Subject lines are included — keep them lowercase, they convert better
+- Adjust the [bracketed] fields before sending
+
+────────────────────────────────────────────────────────────────────────
+
+
+════════════════════════════════════════════════════════════════════════
+TIER 1 — INDIVIDUALIZED EMAILS (highest confidence, send these first)
+════════════════════════════════════════════════════════════════════════
+
+
+──────────────────────────────────────────────────────────────────────
+1. CENTAURI AI — He Lu (CEO) | he@centauri.ai
+   Role: Data Engineer / ETL
+   Why it fits: Snowflake ETL work at NYU IT is literally Centauri's product
+──────────────────────────────────────────────────────────────────────
+
+Subject: NYU data eng grad — Snowflake ETL background, big fan of what you're building
+
+Hi He,
+
+I've been following Centauri since the W24 launch post — the structured finance ETL problem you're solving is one I ran into firsthand. This past semester I built SQL-based ETL pipelines in Snowflake at NYU's IT department, integrating motion-sensor data with booking systems to surface workspace analytics. Not quite credit agreements, but the same pipeline design headaches.
+
+I'm graduating from NYU Computer Engineering in May and I'd love to bring that experience to Centauri. I also built an ML bond pricing model last fall (gradient boosting on liquid bonds to price illiquid ones), so the finance domain isn't new to me either.
+
+Would you have 15 minutes sometime? Happy to share more about my background.
+
+Jaden Daily
+github.com/jadaily | linkedin.com/in/jadenadaily
+
+
+──────────────────────────────────────────────────────────────────────
+2. KATER.AI — Yvonne Chou (CEO) | yvonne@kater.ai
+   Role: Data Analyst / Data Engineer
+   Why it fits: CEO is ex-data engineer herself — peer connection
+──────────────────────────────────────────────────────────────────────
+
+Subject: fellow data engineer turned builder — would love to chat
+
+Hi Yvonne,
+
+I saw your story about building the data stack at CREXi from scratch and it hit close to home. I've spent the past few months doing something similar at NYU — building ETL pipelines in Snowflake, cleaning up the data warehouse, and writing Tableau dashboards that people actually use. The frustration that led you to start Kater is the exact frustration I've been living.
+
+I'm finishing up my CS Engineering degree at NYU this May and I'd genuinely love to join a small team working on this problem. I'm comfortable with SQL, Python, and the messy reality of enterprise data — not just the clean version.
+
+Is there any room on the team for someone early in their career? Even a 20-minute call to hear more about where you're headed would mean a lot.
+
+Jaden
+github.com/jadaily | linkedin.com/in/jadenadaily
+
+
+──────────────────────────────────────────────────────────────────────
+3. SHERPA LABS — Jeffrey Chiu (CEO) | jeffrey@sherpalabs.ai
+   Role: Data Engineer
+   Why it fits: Sherpa automates data engineering — Jaden did the manual version
+──────────────────────────────────────────────────────────────────────
+
+Subject: I spent a semester doing what Sherpa automates — want to help build it
+
+Hi Jeffrey,
+
+I just wrapped up a data engineering internship at NYU where I was manually building the exact workflows Sherpa is trying to automate — ETL pipelines in Snowflake, data catalog maintenance, trying to make analysts stop emailing engineers for every query. It was eye-opening in the best way.
+
+I'm a NYU Computer Engineering senior graduating in May and I'd love to work on this problem from the other side. I've got hands-on Snowflake, Python, and SQL experience, and I've been following your YC launch closely.
+
+I know you're a small team, so I'll keep it simple — if there's any chance of a conversation, I'd really appreciate 15 minutes. Attaching my resume.
+
+Thanks,
+Jaden Daily
+github.com/jadaily
+
+
+──────────────────────────────────────────────────────────────────────
+4. SPADE — Oban MacTavish (CEO) | oban@spade.dev
+   Role: Data Engineer / ML Engineer
+   Role: NYC-based, financial data enrichment
+──────────────────────────────────────────────────────────────────────
+
+Subject: NYU grad with fintech data + ML background — would love to connect
+
+Hi Oban,
+
+I came across Spade while researching transaction data infrastructure and was genuinely impressed by the depth of the merchant enrichment layer. I built an ML bond pricing model last semester that involved a lot of the same pain — engineering features from messy, unreliable financial data — and it made me appreciate how hard the underlying data problem actually is.
+
+Beyond that, I spent this spring building Snowflake ETL pipelines at NYU IT, so the data engineering side isn't new to me either.
+
+I'm graduating from NYU Computer Engineering in May, based here in New York, and would love to chat about whether there's a fit. No pressure — even 10 minutes to hear more about the team would be great.
+
+Jaden Daily
+linkedin.com/in/jadenadaily | github.com/jadaily
+
+
+──────────────────────────────────────────────────────────────────────
+5. DILI — Anand Chaturvedi (CEO) | anand@dili.com OR team@diliai.com
+   Role: Data Analyst / ML Engineer
+   Why it fits: NYC-based, 3 open roles, ML + compliance domain
+──────────────────────────────────────────────────────────────────────
+
+Subject: NYU senior interested in the data/ML side of Dili's compliance work
+
+Hi Anand,
+
+I've been following Dili's work around prevailing wage and federal labor compliance — the problem of making diligence reliable at scale is fascinating, especially with how document-heavy the space is. I saw you have a few open roles and wanted to reach out directly.
+
+My background is on the data and ML side — I optimized an ML algorithm at NYU Langone Health that achieved a 67% reduction in processing time on a large neuroimaging dataset, and more recently built ETL pipelines in Snowflake for NYU's data warehouse team. I'm graduating this May from NYU in Computer Engineering, based in the city.
+
+Given your ML background at Coinbase, I'd love to hear your take on the technical problems you're tackling. Happy to share my resume if that's helpful.
+
+Thanks,
+Jaden
+linkedin.com/in/jadenadaily
+
+
+──────────────────────────────────────────────────────────────────────
+6. PEAKFLO — Saurabh Chauhan (CEO) | saurabh@peakflo.co
+   Role: Data Analyst (Remote)
+   Why it fits: Python + SQL match, agentic finance AI
+──────────────────────────────────────────────────────────────────────
+
+Subject: data analyst role — Python/SQL background, fintech interest
+
+Hi Saurabh,
+
+I saw Peakflo's data analyst opening and wanted to reach out directly. I've spent the past few months doing data analysis work for NYU's institutional data warehouse — writing SQL queries, cleaning messy datasets, building Tableau dashboards, and supporting the kind of operational decision-making your finance teams rely on.
+
+I also built an ML bond pricing model last semester using gradient boosting in Python, which gave me a lot of respect for the finance data pipeline problem. I'm graduating from NYU Computer Engineering in May, comfortable working remote, and genuinely interested in the agentic finance space you're building in.
+
+Would love a quick call if you have time — attaching my resume for context.
+
+Jaden Daily
+linkedin.com/in/jadenadaily
+
+
+════════════════════════════════════════════════════════════════════════
+TIER 2 — ADAPTABLE TEMPLATES (customize the [brackets] before sending)
+════════════════════════════════════════════════════════════════════════
+
+
+──────────────────────────────────────────────────────────────────────
+TEMPLATE A — Data Engineering / Snowflake / ETL angle
+Use for: Coalesce, Tinybird, Modal Labs, HomeVision, Metaplane
+──────────────────────────────────────────────────────────────────────
+
+Subject: [company] data engineering role — NYU grad with Snowflake + ETL background
+
+Hi [Name],
+
+I've been looking closely at [company] since [specific thing — e.g., "the Series B announcement" / "the Snowflake-native approach you wrote about" / "seeing the data engineer listing go up"], and the problem you're solving is one I've gotten pretty close to.
+
+This past semester I built ETL pipelines in Snowflake at NYU's data engineering team — integrating booking and sensor data, maintaining the data warehouse, and writing transforms that fed directly into Tableau analytics. Before that I was doing ML work at NYU Langone, optimizing data-heavy algorithms in Python (cut processing time by 67%).
+
+I'm wrapping up my Computer Engineering degree at NYU this May and I'm based in [NYC / open to remote]. Would love to learn more about where the data team is headed — is there any room to chat?
+
+Jaden Daily
+github.com/jadaily | linkedin.com/in/jadenadaily
+
+[Notes for specific companies:]
+— Coalesce: mention "the Snowflake-native SQL transformation approach" and your direct Snowflake experience
+— Tinybird: mention "turning data pipelines into real-time APIs" and your FastAPI backend work
+— Modal Labs: mention "Erik's writing on the future of data infrastructure" — he has a blog (erikbern.com)
+— HomeVision: mention "the analytics engineering role on HN" and your data warehouse work
+
+
+──────────────────────────────────────────────────────────────────────
+TEMPLATE B — ML Engineering / AI Inference / Model Evaluation angle
+Use for: ZeroEntropy, Vellum AI, Braintrust, Novaflow, Pulse, Anomalo
+──────────────────────────────────────────────────────────────────────
+
+Subject: ML background, graduating May — interested in [company]'s [role/product]
+
+Hi [Name],
+
+I spent last summer optimizing an ML algorithm at NYU Langone's radiology department — working with a large-scale neuroimaging dataset, applying truncated SVD and clustering to cut processing time by 67%. It was the kind of work where you really understand what it means for a model to run in production on real data.
+
+Since then I've built a bond pricing ML model (gradient boosting + feature engineering on fixed income data) and a personal recommendation agent using FastAPI with a full ML inference pipeline on the backend.
+
+I'm finishing up Computer Engineering at NYU this May and I'd love to chat about [specific role or product area]. [One sentence specific to the company — see notes below.] Attaching my resume — happy to talk through any of it.
+
+Jaden
+linkedin.com/in/jadenadaily | github.com/jadaily
+
+[Notes for specific companies:]
+— ZeroEntropy: "The RAG retrieval and re-ranking problem is something I've been thinking about — your ze-rank-1 architecture is a great read."
+— Vellum AI: "My recommendation agent project is essentially the kind of workflow your platform is built for — I'd find it meaningful to work on the infrastructure side of that."
+— Braintrust: "I think a lot about evaluation — my bond pricing model work was heavily metric-driven (R² + MAE over time), and I'd love to apply that thinking to LLM eval."
+— Anomalo: "The ML anomaly detection angle on data quality is something I find genuinely interesting — it's the intersection of the ML and data engineering work I've been doing."
+— Novaflow: "My ML work at NYU Langone was in neuroimaging, which feels adjacent to what your biology lab users need — I understand the domain pain."
+— Pulse: "The document extraction problem is something I read your HN launch thread on — the schema mapping + fine-tuned extraction approach is clever."
+
+
+──────────────────────────────────────────────────────────────────────
+TEMPLATE C — NYC-Specific / In-Person Culture angle
+Use for: Aaru, Sixfold, Moda, Rogo, Petal
+──────────────────────────────────────────────────────────────────────
+
+Subject: [role] at [company] — NYU grad, based in NYC
+
+Hi [Name],
+
+I'm a Computer Engineering senior at NYU graduating this May, and I've been paying attention to what [company] is building. [One specific sentence about what impressed you — don't be generic.]
+
+My technical background is in data engineering and ML — I built Snowflake ETL pipelines at NYU's data warehouse team this semester and did ML research at NYU Langone before that (optimized a neuroimaging algorithm, 67% faster). I also built a bond pricing model using gradient boosting last fall, which gave me real respect for working with messy financial data.
+
+I'm in the city, happy to come in, and genuinely excited about this space. Is there any chance of a short call or coffee?
+
+Jaden Daily
+linkedin.com/in/jadenadaily | 914-563-7225
+
+[Notes for specific companies:]
+— Aaru: "The idea of replacing focus groups with AI simulations is one of the more interesting applied ML problems I've come across — and the prediction accuracy on the election model you published is wild."
+— Sixfold: "The underwriting problem is similar to what I worked on with the bond pricing model — assessing risk from sparse, structured data."
+— Moda: "I've built ML inference pipelines from scratch, and the challenge of getting a model to understand brand voice and produce consistent outputs is the kind of hard ML problem I want to work on."
+— Rogo: "My bond pricing model project overlaps with exactly the kind of financial document analysis you're building — I'd love to be in that room."
+
+
+════════════════════════════════════════════════════════════════════════
+FOLLOW-UP (send 10–12 days after initial email if no reply)
+════════════════════════════════════════════════════════════════════════
+
+Subject: [same subject line as original]
+
+Hi [Name],
+
+Just following up on my note from [date] — totally understand if the timing is off. I'll keep it short: I'm a NYU Computer Engineering grad (May 2026) with hands-on Snowflake ETL, Python ML, and data warehouse experience, and I think there could be a real fit with what you're building.
+
+If it's not the right time, no worries at all. But if there's a 10-minute call in you, I'd love it.
+
+Jaden
+jaden.daily11@gmail.com | 914-563-7225
+
+
+════════════════════════════════════════════════════════════════════════
+LINKEDIN CONNECTION REQUEST (use when email bounces or is unconfirmed)
+════════════════════════════════════════════════════════════════════════
+
+For connections where email is less certain, send a LinkedIn request with a note:
+
+"Hi [Name] — I'm a NYU Computer Engineering grad (May 2026) with Snowflake ETL and ML experience. I've been following [company] closely and would love to connect. Happy to share my background if there's ever a fit."
+
+Keep it under 300 characters (LinkedIn's limit for connection notes).
+
+
+════════════════════════════════════════════════════════════════════════
+WHAT TO AVOID (makes emails sound like AI or corporate)
+════════════════════════════════════════════════════════════════════════
+
+✗  "I hope this email finds you well"
+✗  "I am reaching out because I am deeply passionate about..."
+✗  "I would love the opportunity to leverage my skills"
+✗  "I believe I would be a great fit for your organization"
+✗  "Please find my resume attached for your consideration"
+✗  Long paragraphs — keep each one to 2-3 sentences max
+✗  Listing every skill you have — pick the one most relevant to THEM
+✗  Asking for a job in the first sentence — build a small connection first
+✗  Generic compliments — "I love what you're building" without specifics
+
+✓  Use a specific detail about the company that only someone paying attention would know
+✓  Lead with something you DID, not something you ARE
+✓  Ask for a call or coffee, not a job
+✓  Keep total email under 150 words — shorter is almost always better
+✓  End with your name only — signature blocks are for large companies
+
+
+════════════════════════════════════════════════════════════════════════
+CONTACT QUICK REFERENCE
+════════════════════════════════════════════════════════════════════════
+
+CONFIRMED EMAILS:
+  yvonne@kater.ai              — Yvonne Chou, Kater.ai CEO
+  founders@zeroentropy.dev     — ZeroEntropy founders
+  founders@runcaptain.com      — Captain (YC W26) founders
+  team@diliai.com              — Dili team (backup for anand@dili.com)
+  akash@vellum.ai              — Akash Sharma, Vellum AI CEO
+
+INFERRED (firstname@domain, most likely correct):
+  he@centauri.ai               — He Lu, Centauri AI CEO
+  jeffrey@sherpalabs.ai        — Jeffrey Chiu, Sherpa Labs CEO
+  oban@spade.dev               — Oban MacTavish, Spade CEO
+  saurabh@peakflo.co           — Saurabh Chauhan, Peakflo CEO
+  anand@dili.com               — Anand Chaturvedi, Dili CEO
+  aman@novaflow.ai             — Aman Agarwal, Novaflow CEO
+  sid@runpulse.com             — Sid Manchkanti, Pulse CEO
+  cameron@aaru.com             — Cameron Fink, Aaru CEO
+  spencer@afterquery.com       — Spencer Mateega, AfterQuery CEO
+  ankur@braintrustdata.com     — Ankur Goyal, Braintrust CEO
+  elliot@anomalo.com           — Elliot Shmukler, Anomalo CEO
+  erik@modal.com               — Erik Bernhardsson, Modal Labs CEO
+  jorge@tinybird.co            — Jorge Sancha, Tinybird CEO
+  satish@coalesce.io           — Satish Jayanthi, Coalesce CEO
+
+FALLBACK (if inferred bounces, try):
+  firstname.lastname@domain
+  hello@domain / team@domain / jobs@domain
